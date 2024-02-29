@@ -1,0 +1,8 @@
+* = v $ #
+X S L R 
+X S
+S L=R
+S R
+L *R
+L v
+R L
